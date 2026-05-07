@@ -11,7 +11,9 @@ AI-powered financial anomaly detection system using Machine Learning, NLP, Isola
 - Category-wise spending analysis
 - AI-generated financial insights
 
-- ## 🧠 Problem Statement
+---
+
+## 🧠 Problem Statement
 
 Financial transaction datasets often contain unusual spending behavior that may indicate:
 
@@ -32,7 +34,7 @@ This project helps identify such anomalies automatically using unsupervised mach
 - Scikit-learn
 - Streamlit
 
-- ## 🚨 Key Features Implemented
+## 🚨 Key Features Implemented
 
 ✅ Expense-only anomaly detection  
 ✅ NLP-based feature extraction  
