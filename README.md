@@ -1,7 +1,7 @@
 # FinSightAI
 AI-powered financial anomaly detection system using Machine Learning, NLP, Isolation Forest, and Streamlit.
 
-🚀 Live Demo: https://finsightai-hxnc2x8dw4sfwre89slzmv.streamlit.app/
+Live Demo: https://finsightai-hxnc2x8dw4sfwre89slzmv.streamlit.app/
 
 
 ## 🚀 Features
